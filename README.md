@@ -14,3 +14,6 @@ O programa deverá ler 100 votos e depois apresentar como resultado:
 ● a quantidade de votos do candidato menos votado e seu nome
 ● a quantidade de votos nulos (um voto nulo é um voto cujo código de identificação é um
 inteiro diferente de 0,1,2,3,4).
+
+
+Como acessar: Clone este repositório para o ambiente local.
