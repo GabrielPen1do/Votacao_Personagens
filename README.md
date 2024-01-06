@@ -16,4 +16,5 @@ O programa deverá ler 100 votos e depois apresentar como resultado:
 inteiro diferente de 0,1,2,3,4).
 
 
-Como acessar: Clone este repositório para o ambiente local.
+#Como acessar 
+Clone este repositório para o ambiente local.
